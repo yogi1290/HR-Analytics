@@ -1,0 +1,11 @@
+DATASET DETAILS:
+Objective: The objective of this data is to predict whether the employee look for a new job or work for the company, as well as interpreting affected factors on 
+employees decision. 
+
+DATA DETAILS: 
+A company which is active in Big Data and Data Science wants to hire data scientists among people who successfully pass some courses which conduct by the company. 
+Many people signup for their training. Company wants to know which of these candidates are really wants to work for the company after training or looking for a new 
+employment because it helps to reduce the cost and time as well as the quality of training or planning the courses and categorization of candidates. The whole data 
+divided to train and test. Target isn't included in test but the test target values data file is in hands for related tasks. This data is categorical and imbalanced. 
+
+DIMENSIONS OF THE DATASET: (19158,14) 
