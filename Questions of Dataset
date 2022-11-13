@@ -1,0 +1,20 @@
+Questions on Dataset:
+What is the dataset about?
+Ans. The dataset is about the HR Analytics: Job Change of Data Scientists and it predicts whether the employee looks for a new job or work for the company.
+How many data scientists will change from the job?
+Ans. 4777 data scientists will change from the job.
+How many data scientists will not change from the job?
+Ans. 14381 data scientists will not change from the job.
+What is the size of the dataset?
+Ans. The size of the dataset is 19158 rows and 14 columns.
+How many features are there in the dataset? 
+Ans. 14 features are there in the dataset.
+What are the features of the dataset?
+Ans. The features of the dataset are enrolee id city, city development index, gender, relevent experience, enrolled university, education level, major discipline, 
+experience, company size, company type, last new job, training hours and target. 
+Is there any data missing in the dataset?
+Ans. No, there is no data missing in the dataset.
+What type of plot is relevant for the dataset?
+Ans. The Pie Chart is not relevant for the dataset. 
+Which columns are numerical in the dataset?
+Ans. The columns “ enrolee id”, “city development index” and “training hours” are numerical columns in the dataset.
