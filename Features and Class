@@ -1,0 +1,26 @@
+Features: 
+Test.csv and train.csv: 
+• enrollee_id : Unique ID for candidate
+• city: City code 
+• city_ development _index : Development index of the city (scaled) 
+• gender: Gender of candidate 
+• relevent_experience: Relevant experience of candidate 
+• enrolled_university: Type of University course enrolled if any 
+• education_level: Education level of candidate 
+• major_discipline :Education major discipline of candidate 
+• experience: Candidate total experience in years 
+• company_size: No of employees in current employer's company 
+• company_type : Type of current employer 
+• Last new job: Difference in years between previous job and current job 
+• training_hours: training hours completed 
+• target: 0 – Not looking for job change, 1 – Looking for a job change; train.csv.
+
+Class level Details: 
+There is a feature(attribute) which is target which has two categories or 2-class:
+0 - Not looking for job change 
+1 - Looking for job change 
+
+Why Data Mining is required for this dataset ? 
+This data is imbalanced and there are some imputations(missing values replaced with substitute values).I also want to extract some pattern and knowledge from the dataset.
+This data comes under classification. When a new candidate comes into company, given the features we can classify whether the candidate is looking for the new job or not.
+Hence, I want to do data mining on this dataset.
