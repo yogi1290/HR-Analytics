@@ -13,10 +13,10 @@ Test.csv and train.csv:
 • company_type : Type of current employer 
 • Last new job: Difference in years between previous job and current job 
 • training_hours: training hours completed 
-• target: 0 – Not looking for job change, 1 – Looking for a job change; train.csv.
+• target: 0 – Not looking for job change, 1 – Looking for a job change,train.csv.
 
 Class level Details: 
-There is a feature(attribute) which is target which has two categories or 2-class:
+There is a feature (attribute) which is target which has two categories or 2-class:
 0 - Not looking for job change 
 1 - Looking for job change 
 
